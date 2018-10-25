@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="numberEditText">Enter number of cups of coffee</string>
+    <string name="nameEditText">Enter your name</string>
+</resources>
